@@ -20,5 +20,5 @@ function holidayCountdown(days, holiday){
 
 happyHolidaysTo('you');
 happyHolidayTo('Independence Day', 'you');
-
+holidayCountdown('20', '')
 
